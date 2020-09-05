@@ -3,7 +3,7 @@ public class ClasseA{
 
     //construtor
     public ClasseA(){
-        
+
     }
     
     public String getNome(){
@@ -13,4 +13,6 @@ public class ClasseA{
     public void setNome(String nome){
         this.nome = nome;
     }
+
+    //testando nova branch
 }
