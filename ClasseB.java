@@ -13,4 +13,6 @@ public class ClasseB{
     public void setIdade(String idade){
         this.idade = idade;
     }
+
+    //mais um teste da nova branch aqui
 }
