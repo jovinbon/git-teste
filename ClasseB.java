@@ -1,6 +1,11 @@
 public class ClasseB{
     private String idade;
 
+    //construtor
+    public ClasseB(){
+
+    }
+
     public String getIdade(){
         return this.idade;
     }
